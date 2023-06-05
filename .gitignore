@@ -2,7 +2,10 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-.txt
+C:\Users\AEN\Desktop\Gitproject\Dish_Service_Project\src\main\java\github_icin\silme.txt
+C:\Users\AEN\Desktop\Gitproject\Dish_Service_Project\src\main\java\paylasilmasin/*
+!C:\Users\AEN\Desktop\Gitproject\Dish_Service_Project\src\main\java\paylasilmasin\C02.java
+
 
 ### IntelliJ IDEA ###
 .idea/modules.xml

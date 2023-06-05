@@ -2,6 +2,7 @@ package p04_restaurant_bill_generator;
 
 public class Dish {
     //Yemeklerimin özelliklerini tanımlamak
+    //erol
     private int code;
     private String name;
     private double price;

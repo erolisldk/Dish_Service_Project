@@ -4,6 +4,7 @@ target/
 !**/src/test/**/target/
 
 erol.txt
+erol2.java
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
